@@ -52,13 +52,6 @@ Off-screen, I'm the Transformation Officer for the UCT Archery Club 🏹.
   <img src="https://streak-stats.demolab.com/?user={corazon-02}&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/{corazon-02}/{corazon-02}/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-  <img src="https://raw.githubusercontent.com/{corazon-02}/{corazon-02}/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
-</p>
-
 <div align="center">
 
 <h4>"Build opportunities that matter."</h4>
