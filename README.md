@@ -49,23 +49,12 @@ Off-screen, I'm the Transformation Officer for the UCT Archery Club 🏹.
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={corazon-02}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={corazon-02}&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user={corazon-02}&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username={corazon-02}&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
 <div align="center">
 
 <h4>"Build opportunities that matter."</h4>
-
-<img src="https://komarev.com/ghpvc/?username={corazon-02}&color=4ADE80&style=flat" alt="profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,20&height=100&section=footer" width="100%"/>
 </div>
