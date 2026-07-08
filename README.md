@@ -17,7 +17,7 @@
 
 <h3>🧭 About Me</h3>
 
-I'm an Information Systems student at the [@University of Cape Town](https://www.uct.ac.za/), focused on the intersection of software development, AI and ML. I like turning weekend hackathon ideas into working products, from AI-powered research copilots to financial inclusion platforms I am up for the challenge!
+I'm an Information Systems student at the [University of Cape Town](https://www.uct.ac.za/), focused on the intersection of software development, AI and ML. I like turning weekend hackathon ideas into working products, from AI-powered research copilots to financial inclusion platforms I am up for the challenge!
 
 Off-screen, I'm the Transformation Officer for the UCT Archery Club 🏹.
 
