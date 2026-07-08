@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=90000&color=4ADE80&center=true&vCenter=true&width=800&lines=Mikaeel+Naidoo" alt="Typing SVG" />
 
 <a href="https://github.com/corazon-02">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ADE80&center=true&vCenter=true&width=800&lines=Second-Year+Information+Systems+Student+%40+UCT;Building+with+AI+%26+ML;Hackathon+Regular+%F0%9F%8F%86;Archery+Club+Transformation+Officer+%F0%9F%8F%B9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ADE80&center=true&vCenter=true&width=800&lines=Second-Year+Information+Systems+Student+at+UCT;Building+with+AI+%26+ML;Hackathon+Regular+%F0%9F%8F%86;Archery+Club+Transformation+Officer+%F0%9F%8F%B9" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL LINKS -->
